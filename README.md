@@ -1,2 +1,2 @@
 # atvpn
-WireGuard using ATProtocol as the control plane
+atvpn is a VPN that utilizes ATProtocol as its control plane
